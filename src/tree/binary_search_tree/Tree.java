@@ -1,4 +1,4 @@
-package tree;
+package tree.binary_search_tree;
 
 public interface Tree<T> {
 	

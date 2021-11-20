@@ -1,4 +1,4 @@
-package tree;
+package tree.binary_search_tree;
 
 public class Node<T> {
 	

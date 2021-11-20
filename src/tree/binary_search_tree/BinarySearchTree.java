@@ -1,4 +1,4 @@
-package tree;
+package tree.binary_search_tree;
 
 public class BinarySearchTree<T extends Comparable<T>> implements Tree<T> {
 	
@@ -50,7 +50,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements Tree<T> {
 
 	@Override
 	public T getMax() {
-		// TODO Auto-generated method stub
+		// the max item is the right most item in the right tree
 		return null;
 	}
 
